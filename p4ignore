@@ -1,0 +1,31 @@
+# Ignore compiled binaries and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore temporary build files
+*.sdf
+*.sln
+*.suo
+*.tmp
+*.tmp_cs
+
+# Ignore log files
+*.log
+
+# Ignore user-specific settings
+.vscode/
+.idea/
+*.user
+
+# Ignore project-specific settings
+*.uprojectdirs
+*.suo
+
+# Ignore auto-generated files
+DerivedDataCache/
+DerivedDataCache.ini
+DerivedDataCache.ddp
+DerivedDataCache.cpp
+DerivedDataCache.ddc
