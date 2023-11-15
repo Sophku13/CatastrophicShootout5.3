@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/sophi/Desktop/Catastrophic_Sh 5.3/CatastrophicShootout5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/sophi/Desktop/Catastrophic_Sh 5.3/CatastrophicShootout5.3/Content/FirstPerson/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/sophi/Desktop/Catastrophic_Sh 5.3/CatastrophicShootout5.3/Content/FirstPerson/Blueprints/MainMenu/WB_MainMenu.uasset",
 				"C:/Users/OWNER/Documents/Mediadesign/CATastrophic/CATastropic GIT/CatastrophicShootout5.3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/OWNER/Documents/Mediadesign/CATastrophic/CATastropic GIT/CatastrophicShootout5.3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
