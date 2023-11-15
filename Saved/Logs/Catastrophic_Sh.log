@@ -1133,3 +1133,365 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.15-12.58.35:497][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2023.11.15-12.58.36:002][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.11.15-13.00.28:901][681]LogDerivedDataCache: C:/Users/OWNER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1890 files in 2857 folders with total size 79 MiB.
+[2023.11.15-13.04.52:498][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.15-13.04.52:583][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.04.52:584][820]LogWorldPartition: ULevel::OnLevelLoaded(CatastrophicMapprototype)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.11.15-13.04.52:584][820]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.15-13.04.52:584][820]LogWorldPartition: UWorldPartition::Initialize : World = CatastrophicMapprototype, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.15-13.04.52:819][820]LogContentBundle: [CatastrophicMapprototype(Standalone)] Creating new contrainer.
+[2023.11.15-13.04.52:819][820]LogWorldPartition: Display: WorldPartition initialize took 235 ms (total: 407 ms)
+[2023.11.15-13.04.52:830][820]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/CatastrophicMapprototype.CatastrophicMapprototype
+[2023.11.15-13.04.52:830][820]LightingResults: New page: Lighting Build
+[2023.11.15-13.04.52:830][820]LoadErrors: New page: Loading map: CatastrophicMapprototype.umap
+[2023.11.15-13.04.52:847][820]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-13.04.52:848][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.04.52:849][820]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.11.15-13.04.52:849][820]MapCheck: New page: Map Check
+[2023.11.15-13.04.52:849][820]LightingResults: New page: Lighting Build
+[2023.11.15-13.04.52:861][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.15-13.04.52:863][820]LogWorld: UWorld::CleanupWorld for CatastrophicMapprototype, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-13.04.52:863][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.04.52:866][820]LogContentBundle: [CatastrophicMapprototype(Standalone)] Deleting container.
+[2023.11.15-13.04.52:880][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.15-13.04.52:884][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.15-13.04.52:893][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.04.52:893][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-13.04.52:893][820]LogAIModule: Creating AISystem for world CatastrophicMapprototype
+[2023.11.15-13.04.52:894][820]LogWorldPartition: ULevel::OnLevelLoaded(CatastrophicMapprototype)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2023.11.15-13.04.52:894][820]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.15-13.04.52:894][820]LogWorldPartition: UWorldPartition::Initialize : World = CatastrophicMapprototype, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.15-13.04.53:112][820]LogContentBundle: [CatastrophicMapprototype(Standalone)] Creating new contrainer.
+[2023.11.15-13.04.53:112][820]LogWorldPartition: Display: WorldPartition initialize took 218 ms (total: 625 ms)
+[2023.11.15-13.04.53:159][820]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.15-13.04.53:168][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.15-13.04.53:171][820]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.15-13.04.53:172][820]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.597ms to complete.
+[2023.11.15-13.05.02:853][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.05.02:921][388]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.05.02:995][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.05.04:483][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.15-13.05.04:483][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.05.04:484][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-13.05.04:500][467]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.11.15-13.05.05:226][467]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.15-13.05.05:417][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.05.05:431][468]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.15-13.05.06:739][541]LogShaderCompilers: Warning: Failed to compile Material /Game/FirstPerson/MuscleCat/Materials/Emo/M_Emo_b00.M_Emo_b00 for platform PCD3D_SM6, Default Material will be used in game.
+  /Engine/Private/DeferredShadingCommon.ush(434): File '/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush' not found
+
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: ================================================
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Total job queries 27, among them cache hits 3 (11.11%)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: RAM used: 258.05 KiB of 819.20 MiB budget. Usage: 0.03%
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Shaders Compiled: 8
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Jobs assigned 14, completed 8 (57.14%)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.05 s
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Job execution time: average 1.25 s, max 1.25 s
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Job life time (pending + execution): average 1.29 s, max 1.30
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.30 s
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Average processing rate: 6.14 jobs/sec
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Total thread time: 0.142 s
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Total thread preprocess time: 0.142 s
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Percentage time preprocessing: 99.95%
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Effective parallelization: 0.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 13.47% of total time (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:741][541]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.22% of total time (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:742][541]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.10% of total time (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:742][541]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.01% of total time (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:742][541]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.88% of total time (compiled    1 times, average 0.02 sec, max 0.02 sec, min 0.02 sec)
+[2023.11.15-13.05.06:742][541]LogShaderCompilers: Display: ================================================
+[2023.11.15-13.05.07:934][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.05.08:203][614]LogShaderCompilers: Warning: Failed to compile Material /Game/FirstPerson/MuscleCat/Materials/M_CatHead_00.M_CatHead_00 for platform PCD3D_SM6, Default Material will be used in game.
+  /Engine/Private/DeferredShadingCommon.ush(434): File '/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush' not found
+
+[2023.11.15-13.05.08:203][614]LogShaderCompilers: Warning: Failed to compile Material /Game/FirstPerson/MuscleCat/Materials/M_Muscle_Body_00.M_Muscle_Body_00 for platform PCD3D_SM6, Default Material will be used in game.
+  /Engine/Private/DeferredShadingCommon.ush(434): File '/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush' not found
+
+[2023.11.15-13.06.39:930][991]LogViewport: Scene viewport resized to 1899x389, mode Windowed.
+[2023.11.15-13.06.39:947][992]LogViewport: Scene viewport resized to 1899x395, mode Windowed.
+[2023.11.15-13.06.39:981][993]LogViewport: Scene viewport resized to 1899x408, mode Windowed.
+[2023.11.15-13.06.40:022][994]LogViewport: Scene viewport resized to 1899x417, mode Windowed.
+[2023.11.15-13.06.40:062][995]LogViewport: Scene viewport resized to 1899x419, mode Windowed.
+[2023.11.15-13.06.40:119][997]LogViewport: Scene viewport resized to 1899x422, mode Windowed.
+[2023.11.15-13.06.40:136][998]LogViewport: Scene viewport resized to 1899x424, mode Windowed.
+[2023.11.15-13.06.40:170][999]LogViewport: Scene viewport resized to 1899x432, mode Windowed.
+[2023.11.15-13.06.40:200][  0]LogViewport: Scene viewport resized to 1899x452, mode Windowed.
+[2023.11.15-13.06.40:240][  1]LogViewport: Scene viewport resized to 1899x488, mode Windowed.
+[2023.11.15-13.06.40:289][  2]LogViewport: Scene viewport resized to 1899x531, mode Windowed.
+[2023.11.15-13.06.40:339][  3]LogViewport: Scene viewport resized to 1899x585, mode Windowed.
+[2023.11.15-13.06.40:408][  4]LogViewport: Scene viewport resized to 1899x616, mode Windowed.
+[2023.11.15-13.06.40:482][  5]LogViewport: Scene viewport resized to 1899x650, mode Windowed.
+[2023.11.15-13.06.40:525][  6]LogViewport: Scene viewport resized to 1899x673, mode Windowed.
+[2023.11.15-13.06.40:575][  7]LogViewport: Scene viewport resized to 1899x694, mode Windowed.
+[2023.11.15-13.06.40:640][  8]LogViewport: Scene viewport resized to 1899x709, mode Windowed.
+[2023.11.15-13.06.40:684][  9]LogViewport: Scene viewport resized to 1899x712, mode Windowed.
+[2023.11.15-13.06.40:725][ 10]LogViewport: Scene viewport resized to 1899x714, mode Windowed.
+[2023.11.15-13.06.40:768][ 11]LogViewport: Scene viewport resized to 1899x724, mode Windowed.
+[2023.11.15-13.06.40:797][ 12]LogViewport: Scene viewport resized to 1899x727, mode Windowed.
+[2023.11.15-13.06.40:834][ 13]LogViewport: Scene viewport resized to 1899x728, mode Windowed.
+[2023.11.15-13.06.40:873][ 14]LogViewport: Scene viewport resized to 1899x736, mode Windowed.
+[2023.11.15-13.06.40:900][ 15]LogViewport: Scene viewport resized to 1899x741, mode Windowed.
+[2023.11.15-13.06.40:986][ 17]LogViewport: Scene viewport resized to 1899x753, mode Windowed.
+[2023.11.15-13.06.41:015][ 18]LogViewport: Scene viewport resized to 1899x761, mode Windowed.
+[2023.11.15-13.06.41:055][ 19]LogViewport: Scene viewport resized to 1899x763, mode Windowed.
+[2023.11.15-13.11.46:382][240]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.15-13.11.46:498][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.11.15-13.14.52:855][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.15-13.14.52:857][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/CatastrophicMapprototype' took 0.018
+[2023.11.15-13.14.52:857][909]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.15-13.14.52:857][909]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.14.52:966][909]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C]
+[2023.11.15-13.14.52:996][909]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.15-13.14.52:996][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.15-13.14.53:005][909]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007868 seconds
+[2023.11.15-13.14.53:020][909]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2023.11.15-13.14.53:021][909]LogSavePackage: Moving '../../../../../../Users/OWNER/Documents/Mediadesign/CATastrophic/CATastropic GIT/CatastrophicShootout5.3/Saved/BP_FirstPersonCharacter_Auto133A6A7EB451AE413A5B1BD97AF28AE30.tmp' to '../../../../../../Users/OWNER/Documents/Mediadesign/CATastrophic/CATastropic GIT/CatastrophicShootout5.3/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2023.11.15-13.14.53:022][909]LogFileHelpers: Auto-saving content packages took 0.166
+[2023.11.15-13.17.02:572][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.15-13.17.02:578][ 54]LogContentBundle: [CatastrophicMapprototype(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.15-13.17.02:578][ 54]LogWorldPartition: Display: GenerateStreaming for 'CatastrophicMapprototype' started...
+[2023.11.15-13.17.02:586][ 54]LogWorldPartition: Display: GenerateStreaming for 'CatastrophicMapprototype' took 8 ms
+[2023.11.15-13.17.02:586][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.15-13.17.02:586][ 54]PIE: New page: PIE session: CatastrophicMapprototype (Nov 15, 2023, 3:17:02 PM)
+[2023.11.15-13.17.02:586][ 54]PIE: Warning: Not enough login credentials to launch all PIE instances, change editor settings
+[2023.11.15-13.17.02:589][ 54]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2023.11.15-13.17.02:591][ 54]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.15-13.17.02:591][ 54]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/AdvancedSessions'
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: Unable to load Default__BP_GameInstance_C with outer Package /Game/FirstPerson/Blueprints/BP_GameInstance because its class (BP_GameInstance_C) does not exist
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:593][ 54]LogLinker: Warning: [AssetLog] C:\Users\OWNER\Documents\Mediadesign\CATastrophic\CATastropic GIT\CatastrophicShootout5.3\Content\FirstPerson\Blueprints\BP_GameInstance.uasset: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.02:594][ 54]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C'
+[2023.11.15-13.17.02:594][ 54]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype
+[2023.11.15-13.17.02:618][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024089s)
+[2023.11.15-13.17.02:618][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/CatastrophicMapprototype.CatastrophicMapprototype to /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype.CatastrophicMapprototype (0.024128s)
+[2023.11.15-13.17.02:635][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.11.15-13.17.02:637][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.17.02:637][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-13.17.02:638][ 54]LogAIModule: Creating AISystem for world CatastrophicMapprototype
+[2023.11.15-13.17.02:639][ 54]LogWorldPartition: ULevel::OnLevelLoaded(CatastrophicMapprototype)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.15-13.17.02:639][ 54]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.15-13.17.02:639][ 54]LogWorldPartition: UWorldPartition::Initialize : World = CatastrophicMapprototype, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.15-13.17.02:639][ 54]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.15-13.17.02:647][ 54]LogContentBundle: [CatastrophicMapprototype(Standalone)] Creating new contrainer.
+[2023.11.15-13.17.02:647][ 54]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 633 ms)
+[2023.11.15-13.17.02:647][ 54]LogPlayLevel: PIE: World Init took: (0.009707s)
+[2023.11.15-13.17.02:647][ 54]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.15-13.17.02:647][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-13.17.02:647][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-13.17.02:647][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-13.17.02:647][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-13.17.02:647][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.15-13.17.02:647][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-13.17.02:647][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.15-13.17.02:647][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-13.17.02:647][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-13.17.02:647][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-13.17.02:647][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-13.17.02:650][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-13.17.02:676][ 54]LogAudio: Warning: Could not initialize hardware. Tearing down anything that was set up during initialization
+[2023.11.15-13.17.02:676][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.15-13.17.02:676][ 54]LogAudio: Warning: FAudioDevice::Init Failed!
+[2023.11.15-13.17.02:678][ 54]LogAudio: Display: Destroying Audio Device 2: could not be initialized. Check AudioDeviceModuleName and AudioMixerModuleName in [Platform]Engine.ini.
+[2023.11.15-13.17.02:681][ 54]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.15-13.17.02:695][ 54]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype.CatastrophicMapprototype up for play (max tick rate 60) at 2023.11.15-14.17.02
+[2023.11.15-13.17.02:695][ 54]LogWorld: Bringing up level for play took: 0.014567
+[2023.11.15-13.17.02:698][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.11.15-13.17.02:705][ 54]PIE: Server logged in
+[2023.11.15-13.17.02:705][ 54]PIE: Play in editor total start time 0.128 seconds.
+[2023.11.15-13.17.02:706][ 54]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C'
+[2023.11.15-13.17.02:706][ 54]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype
+[2023.11.15-13.17.02:729][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022946s)
+[2023.11.15-13.17.02:729][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/CatastrophicMapprototype.CatastrophicMapprototype to /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype.CatastrophicMapprototype (0.022980s)
+[2023.11.15-13.17.02:741][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.15-13.17.02:742][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.17.02:742][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-13.17.02:744][ 54]LogAIModule: Creating AISystem for world CatastrophicMapprototype
+[2023.11.15-13.17.02:745][ 54]LogWorldPartition: ULevel::OnLevelLoaded(CatastrophicMapprototype)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.15-13.17.02:745][ 54]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.15-13.17.02:745][ 54]LogWorldPartition: UWorldPartition::Initialize : World = CatastrophicMapprototype, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.15-13.17.02:745][ 54]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.15-13.17.02:752][ 54]LogContentBundle: [CatastrophicMapprototype(Standalone)] Creating new contrainer.
+[2023.11.15-13.17.02:752][ 54]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 640 ms)
+[2023.11.15-13.17.02:752][ 54]LogPlayLevel: PIE: World Init took: (0.008898s)
+[2023.11.15-13.17.02:752][ 54]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.11.15-13.17.02:752][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-13.17.02:752][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-13.17.02:752][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-13.17.02:752][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-13.17.02:752][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.15-13.17.02:752][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-13.17.02:752][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.15-13.17.02:752][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-13.17.02:752][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-13.17.02:753][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-13.17.02:753][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-13.17.02:755][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-13.17.02:779][ 54]LogAudio: Warning: Could not initialize hardware. Tearing down anything that was set up during initialization
+[2023.11.15-13.17.02:780][ 54]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.15-13.17.02:780][ 54]LogAudio: Warning: FAudioDevice::Init Failed!
+[2023.11.15-13.17.02:782][ 54]LogAudio: Display: Destroying Audio Device 3: could not be initialized. Check AudioDeviceModuleName and AudioMixerModuleName in [Platform]Engine.ini.
+[2023.11.15-13.17.02:844][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.17.02:844][ 54]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.15-13.17.02:861][ 54]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype.CatastrophicMapprototype up for play (max tick rate 60) at 2023.11.15-14.17.02
+[2023.11.15-13.17.02:862][ 54]LogWorld: Bringing up level for play took: 0.016552
+[2023.11.15-13.17.02:864][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.11.15-13.17.02:872][ 54]PIE: Server logged in
+[2023.11.15-13.17.02:874][ 54]PIE: Play in editor total start time 0.296 seconds.
+[2023.11.15-13.17.02:908][ 54]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.11.15-13.17.03:029][ 55]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CreateSession': BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.03:029][ 55]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_BP_GameInstance': BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.03:029][ 55]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OnFailure_361EC9DE40A0B82EBACB2FA32C452398': BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.03:029][ 55]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'OnSuccess_361EC9DE40A0B82EBACB2FA32C452398': BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C
+[2023.11.15-13.17.05:287][ 58]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.15-13.17.50:935][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.17.50:935][841]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype
+[2023.11.15-13.17.50:936][841]LogSlate: Window 'Catastrophic_Sh Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.15-13.17.50:976][841]LogWorld: UWorld::CleanupWorld for CatastrophicMapprototype, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-13.17.50:979][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.17.50:979][841]LogContentBundle: [CatastrophicMapprototype(Standalone)] Deleting container.
+[2023.11.15-13.17.50:983][841]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype
+[2023.11.15-13.17.50:984][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.17.50:984][841]LogWorld: UWorld::CleanupWorld for CatastrophicMapprototype, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-13.17.50:986][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.17.50:987][841]LogContentBundle: [CatastrophicMapprototype(Standalone)] Deleting container.
+[2023.11.15-13.17.50:991][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.15-13.17.50:997][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.17.51:016][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.17.51:032][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.11.15-13.17.51:282][842]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.11.15-13.17.51:282][842]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.11.15-13.17.52:686][892]LogSlate: Window 'Message Log' being destroyed
+[2023.11.15-13.17.52:714][892]LogSlate: Window 'Message Log' being destroyed
+[2023.11.15-13.17.56:198][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.15-13.17.56:204][ 96]LogContentBundle: [CatastrophicMapprototype(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.15-13.17.56:204][ 96]LogWorldPartition: Display: GenerateStreaming for 'CatastrophicMapprototype' started...
+[2023.11.15-13.17.56:215][ 96]LogWorldPartition: Display: GenerateStreaming for 'CatastrophicMapprototype' took 10 ms (total: 18 ms)
+[2023.11.15-13.17.56:215][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.15-13.17.56:215][ 96]PIE: New page: PIE session: CatastrophicMapprototype (Nov 15, 2023, 3:17:56 PM)
+[2023.11.15-13.17.56:215][ 96]PIE: Warning: Not enough login credentials to launch all PIE instances, change editor settings
+[2023.11.15-13.17.56:215][ 96]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C'
+[2023.11.15-13.17.56:215][ 96]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype
+[2023.11.15-13.17.56:241][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026517s)
+[2023.11.15-13.17.56:241][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/CatastrophicMapprototype.CatastrophicMapprototype to /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype.CatastrophicMapprototype (0.026560s)
+[2023.11.15-13.17.56:259][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.11.15-13.17.56:260][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.17.56:261][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-13.17.56:261][ 96]LogAIModule: Creating AISystem for world CatastrophicMapprototype
+[2023.11.15-13.17.56:262][ 96]LogWorldPartition: ULevel::OnLevelLoaded(CatastrophicMapprototype)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.15-13.17.56:262][ 96]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.15-13.17.56:262][ 96]LogWorldPartition: UWorldPartition::Initialize : World = CatastrophicMapprototype, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.15-13.17.56:262][ 96]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.15-13.17.56:270][ 96]LogContentBundle: [CatastrophicMapprototype(Standalone)] Creating new contrainer.
+[2023.11.15-13.17.56:271][ 96]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 649 ms)
+[2023.11.15-13.17.56:271][ 96]LogPlayLevel: PIE: World Init took: (0.010284s)
+[2023.11.15-13.17.56:271][ 96]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.11.15-13.17.56:271][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-13.17.56:271][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-13.17.56:271][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-13.17.56:271][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-13.17.56:271][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.15-13.17.56:271][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-13.17.56:271][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.15-13.17.56:271][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-13.17.56:271][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-13.17.56:271][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-13.17.56:271][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-13.17.56:274][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-13.17.56:301][ 96]LogAudio: Warning: Could not initialize hardware. Tearing down anything that was set up during initialization
+[2023.11.15-13.17.56:301][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.15-13.17.56:301][ 96]LogAudio: Warning: FAudioDevice::Init Failed!
+[2023.11.15-13.17.56:303][ 96]LogAudio: Display: Destroying Audio Device 4: could not be initialized. Check AudioDeviceModuleName and AudioMixerModuleName in [Platform]Engine.ini.
+[2023.11.15-13.17.56:306][ 96]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.15-13.17.56:321][ 96]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype.CatastrophicMapprototype up for play (max tick rate 60) at 2023.11.15-14.17.56
+[2023.11.15-13.17.56:322][ 96]LogWorld: Bringing up level for play took: 0.014903
+[2023.11.15-13.17.56:324][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.11.15-13.17.56:327][ 96]PIE: Server logged in
+[2023.11.15-13.17.56:328][ 96]PIE: Play in editor total start time 0.124 seconds.
+[2023.11.15-13.17.56:328][ 96]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance_C'
+[2023.11.15-13.17.56:328][ 96]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype
+[2023.11.15-13.17.56:351][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023672s)
+[2023.11.15-13.17.56:351][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/CatastrophicMapprototype.CatastrophicMapprototype to /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype.CatastrophicMapprototype (0.023702s)
+[2023.11.15-13.17.56:369][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.15-13.17.56:370][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.15-13.17.56:370][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.15-13.17.56:370][ 96]LogAIModule: Creating AISystem for world CatastrophicMapprototype
+[2023.11.15-13.17.56:371][ 96]LogWorldPartition: ULevel::OnLevelLoaded(CatastrophicMapprototype)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.15-13.17.56:371][ 96]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.15-13.17.56:371][ 96]LogWorldPartition: UWorldPartition::Initialize : World = CatastrophicMapprototype, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.15-13.17.56:371][ 96]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.15-13.17.56:379][ 96]LogContentBundle: [CatastrophicMapprototype(Standalone)] Creating new contrainer.
+[2023.11.15-13.17.56:379][ 96]LogWorldPartition: Display: WorldPartition initialize took 8 ms (total: 657 ms)
+[2023.11.15-13.17.56:379][ 96]LogPlayLevel: PIE: World Init took: (0.009597s)
+[2023.11.15-13.17.56:379][ 96]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.15-13.17.56:379][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.15-13.17.56:379][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.15-13.17.56:379][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.15-13.17.56:380][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.15-13.17.56:380][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.15-13.17.56:380][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.15-13.17.56:380][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.15-13.17.56:380][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.15-13.17.56:380][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.15-13.17.56:380][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.15-13.17.56:380][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.15-13.17.56:382][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.15-13.17.56:412][ 96]LogAudio: Warning: Could not initialize hardware. Tearing down anything that was set up during initialization
+[2023.11.15-13.17.56:412][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.15-13.17.56:412][ 96]LogAudio: Warning: FAudioDevice::Init Failed!
+[2023.11.15-13.17.56:414][ 96]LogAudio: Display: Destroying Audio Device 5: could not be initialized. Check AudioDeviceModuleName and AudioMixerModuleName in [Platform]Engine.ini.
+[2023.11.15-13.17.56:472][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.17.56:472][ 96]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.15-13.17.56:485][ 96]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype.CatastrophicMapprototype up for play (max tick rate 60) at 2023.11.15-14.17.56
+[2023.11.15-13.17.56:486][ 96]LogWorld: Bringing up level for play took: 0.013812
+[2023.11.15-13.17.56:488][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.11.15-13.17.56:494][ 96]PIE: Server logged in
+[2023.11.15-13.17.56:496][ 96]PIE: Play in editor total start time 0.292 seconds.
+[2023.11.15-13.17.56:525][ 96]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2023.11.15-13.19.01:153][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.19.01:153][409]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_1_CatastrophicMapprototype
+[2023.11.15-13.19.01:153][409]LogSlate: Window 'Catastrophic_Sh Preview [NetMode: Standalone 1]  (64-bit/PC D3D SM6)' being destroyed
+[2023.11.15-13.19.01:204][409]LogWorld: UWorld::CleanupWorld for CatastrophicMapprototype, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-13.19.01:206][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.19.01:206][409]LogContentBundle: [CatastrophicMapprototype(Standalone)] Deleting container.
+[2023.11.15-13.19.01:209][409]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_CatastrophicMapprototype
+[2023.11.15-13.19.01:209][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.19.01:209][409]LogWorld: UWorld::CleanupWorld for CatastrophicMapprototype, bSessionEnded=true, bCleanupResources=true
+[2023.11.15-13.19.01:211][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.19.01:212][409]LogContentBundle: [CatastrophicMapprototype(Standalone)] Deleting container.
+[2023.11.15-13.19.01:214][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.15-13.19.01:218][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.15-13.19.01:240][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.15-13.19.01:254][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.11.15-13.19.01:480][410]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.11.15-13.19.01:480][410]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.11.15-13.19.07:669][732]LogSlate: Window 'Message Log' being destroyed
+[2023.11.15-13.19.07:680][732]LogSlate: Window 'Message Log' being destroyed
+[2023.11.15-13.19.10:761][916]LogViewport: Scene viewport resized to 1899x764, mode Windowed.
+[2023.11.15-13.19.10:785][917]LogViewport: Scene viewport resized to 1899x750, mode Windowed.
+[2023.11.15-13.19.10:822][918]LogViewport: Scene viewport resized to 1899x700, mode Windowed.
+[2023.11.15-13.19.10:869][918]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2023.11.15-13.19.10:882][919]LogViewport: Scene viewport resized to 1899x595, mode Windowed.
+[2023.11.15-13.19.10:967][920]LogViewport: Scene viewport resized to 1899x550, mode Windowed.
+[2023.11.15-13.19.11:021][921]LogViewport: Scene viewport resized to 1899x528, mode Windowed.
+[2023.11.15-13.19.11:073][922]LogViewport: Scene viewport resized to 1899x486, mode Windowed.
+[2023.11.15-13.19.11:120][923]LogViewport: Scene viewport resized to 1899x418, mode Windowed.
+[2023.11.15-13.19.11:164][924]LogViewport: Scene viewport resized to 1899x374, mode Windowed.
